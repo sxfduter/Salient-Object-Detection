@@ -1,4 +1,15 @@
 # Salient-Object-Detection
+## 2019
+* FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
+  + [paper](http://wuhuikai.me/FastFCNProject/fast_fcn.pdf)
+  + [code](https://github.com/wuhuikai/FastFCN)
+  + [webpage](http://wuhuikai.me/FastFCNProject/)
+
+
+
+
+
+https://github.com/wuhuikai/FastFCN/blob/master/images/Framework.png
 ## 2018
 * A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)
   + [paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_A_Bi-Directional_Message_CVPR_2018_paper.html)
