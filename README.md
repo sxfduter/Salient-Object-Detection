@@ -2,6 +2,8 @@
 ## 2019
 * Residual pyramid learning for single-shot semantic segmentation
 * Scale-Adaptive Neural Dense Features:Learning via Hierarchical Context Aggregation
+  + [paper](https://arxiv.org/abs/1903.10427)
+  + [code](https://github.com/jspenmar/SAND_features)
 
 ![结构图](https://github.com/sxfduter/Salient-Object-Detection/blob/master/Structured%20Knowledge%20Distillation.png)
 * Structured Knowledge Distillation for Semantic Segmentation
