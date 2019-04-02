@@ -1,5 +1,12 @@
 # semantics segmentation
 ## 2019
+
+
+
+![结构图](https://github.com/wuhuikai/FastFCN/blob/master/images/Framework.png)
+* In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images
+  + [paper](https://arxiv.org/abs/1903.08469?context=cs.CV)
+  + [code](https://github.com/orsic/swiftnet)
 ![结构图](https://github.com/wuhuikai/FastFCN/blob/master/images/Framework.png)
 * FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
   + [paper](http://wuhuikai.me/FastFCNProject/fast_fcn.pdf)
