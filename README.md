@@ -1,6 +1,10 @@
 # semantics segmentation
 ## 2019
 ![结构图](https://github.com/sxfduter/Salient-Object-Detection/blob/master/swiftnet.png)
+* Structured Knowledge Distillation for Semantic Segmentation
+  + [paper](https://arxiv.org/abs/1903.04197)
+ 
+![结构图](https://github.com/sxfduter/Salient-Object-Detection/blob/master/swiftnet.png)
 * In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images
   + [paper](https://arxiv.org/abs/1903.08469?context=cs.CV)
   + [code](https://github.com/orsic/swiftnet)
