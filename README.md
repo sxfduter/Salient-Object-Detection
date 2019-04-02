@@ -1,6 +1,6 @@
 # semantics segmentation
 ## 2019
-![结构图](https://github.com/sxfduter/Salient-Object-Detection/blob/master/swiftnet.png)
+![结构图](https://github.com/sxfduter/Salient-Object-Detection/blob/master/Structured%20Knowledge%20Distillation.png)
 * Structured Knowledge Distillation for Semantic Segmentation
   + [paper](https://arxiv.org/abs/1903.04197)
  
