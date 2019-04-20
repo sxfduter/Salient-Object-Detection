@@ -1,3 +1,9 @@
+# human pose estimation
+## 2019
+* Deep High-Resolution Representation Learning for Human Pose Estimation
+  + [paper](https://arxiv.org/abs/1902.09212)
+  + [code](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
+
 # semantics segmentation
 ## 2019
 * Residual pyramid learning for single-shot semantic segmentation
