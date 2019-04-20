@@ -20,6 +20,10 @@
   + [webpage](http://wuhuikai.me/FastFCNProject/)
 # Salient-Object-Detection
 ## 2018
+
+* R³Net: Recurrent Residual Refinement Network for Saliency Detection (IJCAI2018)
+  + [paper](https://www.ijcai.org/proceedings/2018/95)
+  + [code](https://github.com/zijundeng/R3Net)
 * A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)
   + [paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_A_Bi-Directional_Message_CVPR_2018_paper.html)
   + [code](https://github.com/zhangludl/A-bi-directional-message-passing-model-for-salient-object-detection)
