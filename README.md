@@ -25,8 +25,15 @@
   + [code](https://github.com/wuhuikai/FastFCN)
   + [webpage](http://wuhuikai.me/FastFCNProject/)
 # Salient-Object-Detection
-## 2018
+## 2019
 
+
+
+## 2018
+* Direction-aware Spatial Context Features for Shadow Detection
+  + [paper](https://arxiv.org/abs/1712.04142?context=cs)
+  + [code](https://github.com/xw-hu/DSC)
+  + [webpage](https://xw-hu.github.io/)
 * R³Net: Recurrent Residual Refinement Network for Saliency Detection (IJCAI2018)
   + [paper](https://www.ijcai.org/proceedings/2018/95)
   + [code](https://github.com/zijundeng/R3Net)
