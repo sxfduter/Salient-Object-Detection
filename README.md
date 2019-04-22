@@ -33,6 +33,11 @@
 
 
 ## 2018
+* PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection
+  + [paper](https://arxiv.org/abs/1708.06433v2)
+  + [code](https://github.com/Ugness/PiCANet-Implementation)
+
+
 ![结构图](https://github.com/sxfduter/Salient-Object-Detection/blob/master/%E6%8D%95%E8%8E%B7.PNG)
 * Direction-aware Spatial Context Features for Shadow Detection
   + [paper](https://arxiv.org/abs/1712.04142?context=cs)
