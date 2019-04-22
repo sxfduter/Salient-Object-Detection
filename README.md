@@ -15,7 +15,7 @@
 # semantics segmentation
 ## 2019
 * Residual pyramid learning for single-shot semantic segmentation
-+ [paper](https://arxiv.org/abs/1903.09746v1)
+  + [paper](https://arxiv.org/abs/1903.09746v1)
 * Scale-Adaptive Neural Dense Features:Learning via Hierarchical Context Aggregation
   + [paper](https://arxiv.org/abs/1903.10427)
   + [code](https://github.com/jspenmar/SAND_features)
