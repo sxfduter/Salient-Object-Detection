@@ -14,6 +14,9 @@
 
 # semantics segmentation
 ## 2019
+* Dual Attention Network for Scene Segmentation
+  + [paper](https://arxiv.org/pdf/1809.02983.pdf)
+  + [code]( https://github.com/junfu1115/DANet/)
 * Residual pyramid learning for single-shot semantic segmentation
   + [paper](https://arxiv.org/abs/1903.09746v1)
 * Scale-Adaptive Neural Dense Features:Learning via Hierarchical Context Aggregation
