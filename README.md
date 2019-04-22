@@ -1,3 +1,11 @@
+# Multiple Tasks
+* Attentive Single-Tasking of Multiple Tasks
+  + [paper](https://arxiv.org/pdf/1904.08918.pdf)
+  + [code](http://vision.ee.ethz.ch/˜kmaninis/astmt/)
+
+
+
+
 # human pose estimation
 ## 2019
 * Deep High-Resolution Representation Learning for Human Pose Estimation
