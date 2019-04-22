@@ -26,12 +26,14 @@
   + [webpage](http://wuhuikai.me/FastFCNProject/)
 # Salient-Object-Detection
 ## 2019
+
 * SAC-Net: Spatial Attenuation Context for Salient Object Detection 
   + [paper](https://arxiv.org/abs/1903.10152)
   + [webpage](https://xw-hu.github.io/)
 
 
 ## 2018
+![结构图](https://github.com/sxfduter/Salient-Object-Detection/blob/master/%E6%8D%95%E8%8E%B7.PNG)
 * Direction-aware Spatial Context Features for Shadow Detection
   + [paper](https://arxiv.org/abs/1712.04142?context=cs)
   + [code](https://github.com/xw-hu/DSC)
