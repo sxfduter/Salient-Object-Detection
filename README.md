@@ -26,7 +26,9 @@
   + [webpage](http://wuhuikai.me/FastFCNProject/)
 # Salient-Object-Detection
 ## 2019
-
+* SAC-Net: Spatial Attenuation Context for Salient Object Detection 
+  + [paper](https://arxiv.org/abs/1903.10152)
+  + [webpage](https://xw-hu.github.io/)
 
 
 ## 2018
