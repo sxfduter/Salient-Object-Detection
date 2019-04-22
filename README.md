@@ -48,7 +48,9 @@
 * PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection
   + [paper](https://arxiv.org/abs/1708.06433v2)
   + [code](https://github.com/Ugness/PiCANet-Implementation)
-
+* PAGRN: Progressive Attention Guided Recurrent Network for Salient Object Detection. (CVPR)  
+  + [paper](https://github.com/zhangxiaoning666/PAGR)
+  + [code](https://github.com/yangbinb/SalMetric/tree/master/PAGRN)
 
 ![结构图](https://github.com/sxfduter/Salient-Object-Detection/blob/master/%E6%8D%95%E8%8E%B7.PNG)
 * Direction-aware Spatial Context Features for Shadow Detection
