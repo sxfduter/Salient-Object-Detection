@@ -38,7 +38,9 @@
   + [webpage](http://wuhuikai.me/FastFCNProject/)
 # Salient-Object-Detection
 ## 2019
-
+* A Simple Pooling-Based Design for Real-Time Salient Object Detection
+  + [paper](https://arxiv.org/pdf/1904.09569.pdf)
+  + [webpage](http://mmcheng.net/poolnet/)
 * SAC-Net: Spatial Attenuation Context for Salient Object Detection 
   + [paper](https://arxiv.org/abs/1903.10152)
   + [webpage](https://xw-hu.github.io/)
