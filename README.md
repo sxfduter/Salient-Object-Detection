@@ -41,6 +41,7 @@
 * A Simple Pooling-Based Design for Real-Time Salient Object Detection
   + [paper](https://arxiv.org/pdf/1904.09569.pdf)
   + [code](http://mmcheng.net/poolnet/)
+  + [adaptiveavgpool2d](https://pytorch.org/docs/stable/nn.html#adaptiveavgpool2d)
 * SAC-Net: Spatial Attenuation Context for Salient Object Detection 
   + [paper](https://arxiv.org/abs/1903.10152)
   + [webpage](https://xw-hu.github.io/)
