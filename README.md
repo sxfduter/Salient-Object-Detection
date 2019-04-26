@@ -14,6 +14,9 @@
 
 # semantics segmentation
 ## 2019
+* Segmenting the Future
+  + [paper](https://arxiv.org/abs/1904.10666)
+  + [code](https://github.com/eddyhkchiu/segmenting_the_future/.)
 * Dual Attention Network for Scene Segmentation
   + [paper](https://arxiv.org/pdf/1809.02983.pdf)
   + [code]( https://github.com/junfu1115/DANet/)
