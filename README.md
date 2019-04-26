@@ -38,6 +38,10 @@
   + [webpage](http://wuhuikai.me/FastFCNProject/)
 # Salient-Object-Detection
 ## 2019
+
+* Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection
+  + [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01252-6_44.pdf)
+  + [code](https://github.com/shenjianbing/PDB-ConvLSTM)
 * A Simple Pooling-Based Design for Real-Time Salient Object Detection
   + [paper](https://arxiv.org/pdf/1904.09569.pdf)
   + [code](http://mmcheng.net/poolnet/)
