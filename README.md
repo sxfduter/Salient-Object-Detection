@@ -41,7 +41,8 @@
   + [webpage](http://wuhuikai.me/FastFCNProject/)
 # Salient-Object-Detection
 ## 2019
-
+* On guiding video object segmentation
+  + [paper](https://arxiv.org/pdf/1904.11256.pdf)
 * Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection
   + [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01252-6_44.pdf)
   + [code](https://github.com/shenjianbing/PDB-ConvLSTM)
