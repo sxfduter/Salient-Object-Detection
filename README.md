@@ -2,7 +2,10 @@
 * Attentive Single-Tasking of Multiple Tasks
   + [paper](https://arxiv.org/pdf/1904.08918.pdf)
   + [code](http://vision.ee.ethz.ch/˜kmaninis/astmt/)
-
+# Deformable Convolution
+* Deformable Convolutional Networks
+  + [paper](https://arxiv.org/abs/1703.06211)
+  + [code](https://github.com/msracver/Deformable-ConvNets)
 # Pose estimation
 
 * High-Resolution Representations for Labeling Pixels and Regions
