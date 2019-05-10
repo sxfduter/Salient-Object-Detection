@@ -9,6 +9,9 @@
 * Deformable ConvNets v2: More Deformable, Better Results
   + [paper](https://arxiv.org/abs/1811.11168)
 # Pose estimation
+* GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond
+  + [paper](https://arxiv.org/abs/1904.11492?context=cs.LG)
+  + [code](https://github.com/xvjiarui/GCNet)
 * High-Resolution Representations for Labeling Pixels and Regions
   + [paper](https://arxiv.org/abs/1904.04514)
   + [code](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
