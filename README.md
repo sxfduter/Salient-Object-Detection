@@ -6,12 +6,12 @@
 * Deformable Convolutional Networks
   + [paper](https://arxiv.org/abs/1703.06211)
   + [code](https://github.com/msracver/Deformable-ConvNets)
+* Deformable ConvNets v2: More Deformable, Better Results
+  + [paper](https://arxiv.org/abs/1811.11168)
 # Pose estimation
-
 * High-Resolution Representations for Labeling Pixels and Regions
   + [paper](https://arxiv.org/abs/1904.04514)
   + [code](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
-
 # human pose estimation
 ## 2019
 * Deep High-Resolution Representation Learning for Human Pose Estimation
