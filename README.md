@@ -3,8 +3,11 @@
   + [paper](https://arxiv.org/pdf/1904.08918.pdf)
   + [code](http://vision.ee.ethz.ch/˜kmaninis/astmt/)
 
+# Pose estimation
 
-
+* High-Resolution Representations for Labeling Pixels and Regions
+  + [paper](https://arxiv.org/abs/1904.04514)
+  + [code](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 
 # human pose estimation
 ## 2019
