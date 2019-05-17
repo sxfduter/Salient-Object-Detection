@@ -1,4 +1,4 @@
-#NAS
+# NAS
 * Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours
   + [paper](https://arxiv.org/abs/1904.02877)
   + [code](https://github.com/dstamoulis/single-path-nas)
