@@ -52,6 +52,14 @@
   + [paper](http://wuhuikai.me/FastFCNProject/fast_fcn.pdf)
   + [code](https://github.com/wuhuikai/FastFCN)
   + [webpage](http://wuhuikai.me/FastFCNProject/)
+
+# VSOD
+* Shifting More Attention to Video Salient Object Detection
+  + [paper](http://dpfan.net/wp-content/uploads/2019CVPROralSSAVNetDAVSOD-datasetShifting-More-Attention-to-Video-Salient-Object-Detection.pdf)
+  + [code](https://github.com/DengPingFan/DAVSOD)
+  + [projectpage](http://dpfan.net/davsod/)
+
+
 # Salient-Object-Detection
 ## 2019
 * On guiding video object segmentation
